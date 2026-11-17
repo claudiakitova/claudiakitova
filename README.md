@@ -7,5 +7,4 @@ What I'm building:
 
 I keep my projects simple(ish) and free to use
 <img src="images/line.png" alt="" width="100%" height="3">
-
 More about me: [nubifere.com](https://nubifere.com/)
