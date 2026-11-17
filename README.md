@@ -1,5 +1,5 @@
 Hey there! <img src="images/orbit.png" alt="" width="36" align="absmiddle"><br>
-<img src="images/line.png" alt="" width="100%" height="3">
+
 What I'm building:
 
 - [lifekeeper](https://github.com/claudiakitova/lifekeeper): a method and a tool for collecting your own data (photos, chats, posts) into one archive on your computer, and asking it questions
@@ -8,5 +8,5 @@ What I'm building:
 - [ask-your-db](https://github.com/claudiakitova/ask-your-db): upload documents, spreadsheets, slides or emails and ask questions about them, with sources. [Try it](https://ask-your-db.streamlit.app)
 
 I keep my projects simple(ish) and free to use
-
+<img src="images/line.png" alt="" width="100%" height="3">
 More about me: [nubifere.com](https://nubifere.com/)
