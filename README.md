@@ -9,4 +9,4 @@ What I'm building:
 
 I try to keep my projects simple and free to use
 
-More about me: [kitova.me](https://kitova.me)
+More about me: [nubifere.com](https://nubifere.com/)
