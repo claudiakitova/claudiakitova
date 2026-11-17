@@ -1,4 +1,5 @@
 Hey there! <img src="images/orbit.png" alt="" width="36" align="absmiddle"><br>
+<img src="images/line.png" alt="" width="100%" height="3">
 What I'm building:
 
 - [lifekeeper](https://github.com/claudiakitova/lifekeeper): a method and a tool for collecting your own data (photos, chats, posts) into one archive on your computer, and asking it questions
