@@ -7,6 +7,6 @@ What I'm building:
 - [physics-talks](https://github.com/claudiakitova/physics-talks): a chatbot that answers condensed matter physics questions from a library of scientific papers. [Try it](https://physics-talks.streamlit.app)
 - [ask-your-db](https://github.com/claudiakitova/ask-your-db): upload documents and ask questions about them, with page sources. [Try it](https://ask-your-db.streamlit.app)
 
-I try to keep my projects simple and free to use
+I keep my projects simple and free to use
 
 More about me: [nubifere.com](https://nubifere.com/)
