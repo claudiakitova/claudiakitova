@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/banner-dark.png">
-  <img src="images/banner-light.png" alt="Claudia Kitova. Data, physics and astronautics" width="100%">
-</picture>
-
 Hey there!
 
 What I'm building:
