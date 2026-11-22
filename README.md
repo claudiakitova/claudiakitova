@@ -1,6 +1,6 @@
 Hey there! <img src="images/orbit.png" alt="" width="36" align="absmiddle"><br>
 What I'm building:
-- [lifekeeper](https://github.com/claudiakitova/lifekeeper): a method and a tool to reclaim your digital self
+- [lifekeeper](https://github.com/nubifere/lifekeeper): a method and a tool to reclaim your digital self
 - [moon-base-fire-evidence](https://github.com/claudiakitova/moon-base-fire-evidence): an open dataset and dashboard of NASA microgravity combustion tests, for NASA Space Apps
 - [data-stories](https://github.com/claudiakitova/data-stories): collection of real-life questions answered with data, from crypto forecasts to life support in space
 - [physics-talks](https://github.com/claudiakitova/physics-talks): a chatbot that answers condensed matter physics questions from a library of scientific papers. [Try it](https://physics-talks.streamlit.app)
